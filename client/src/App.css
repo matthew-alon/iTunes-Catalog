@@ -1,0 +1,16 @@
+.search-col {
+  margin: 0 auto;
+}
+
+.search-input {
+  margin-top: 10px;
+}
+
+.search-btn {
+  margin-top: 10px;
+}
+
+.fav-btn {
+  margin-top: 10px;
+  float: right;
+}

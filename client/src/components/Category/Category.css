@@ -1,0 +1,16 @@
+.category {
+  display: inline-block;
+}
+
+.category-title {
+  text-align: left;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 2rem;
+  color: #C3C3C3;
+  margin: 20px 20px 20px 70px;
+}
+
+.result-bg {
+  background-color: #141414;
+}

@@ -1,0 +1,56 @@
+.result {
+  display: inline-block;
+  height: 240px;
+  max-height: 240px;
+}
+
+.artwork {
+  height: 125px;
+  width: 125px;
+  transition: 0.2s;
+}
+
+.artwork:hover {
+  height: 150px;
+  width: 150px;
+  cursor: pointer;
+}
+
+.title {
+  margin: 0;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.artist {
+  margin: 0;
+  font-size: 0.8rem;
+  color: white;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.genre {
+  margin: 0;
+  font-size: 0.8rem;
+  color: white;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.action-btn {
+  margin-top: 5px;
+}
+
+.favorited {
+  height: 31px;
+  max-height: 31px;
+  margin: 0;
+  color: white;
+}
